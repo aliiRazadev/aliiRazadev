@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abrarali-official
-- 👀 I’m interested in Computer development...
-- 🌱 I’m currently learning IT
+- 👀 I’m interested in development...
+- 🌱 I’m currently learning CS
 - 📫 How to reach me viva Email abraraliiofficial@gmail.com
 <!---
 abrarali-official/abrarali-official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
