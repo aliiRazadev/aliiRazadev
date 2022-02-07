@@ -14,4 +14,4 @@ https://stackoverflow.com/users/18143228/abrar-ali
 Facebook = abraraliiofficial
 
 Languages and Tools:
-css3 figma firebase git html5 javascript nodejs photoshop react xd
+css3 | figma | firebase | git | html5 | javascript | nodejs | photoshop | react-Js | xd |
