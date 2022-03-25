@@ -1,7 +1,7 @@
 ![.](https://visitor-badge.glitch.me/badge?page_id=abrarali-official.abrarali-official) ![Repos](https://badges.pufler.dev/repos/abrarali-official) ![Commits](https://badges.pufler.dev/commits/yearly/abrarali-official)
 
 ### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" alt="Developer Abrar Ali" src="code.gif" width="500" height="320" />
+<img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
 
 - 😄 Pronouns me as `/Ab-r-ra/`
 - 🎓 Virtual University Faisalabad
