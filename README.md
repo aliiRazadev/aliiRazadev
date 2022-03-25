@@ -6,7 +6,7 @@
 - 😄 Pronouns me as `/Ab-r-ra/`
 - 🎓 Virtual University Faisalabad
 - 💻 Cross Platform Developer
-- 🌱 Learning **Data Science**
+- 🌱 Learning **Flutter**
 - ☕️ Coffee Lover
 - 🇵🇰 Faisalabad, Punjab, Pakistan
 - 📱 (+92) 30 4999 007 2
