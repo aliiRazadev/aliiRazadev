@@ -15,7 +15,7 @@
 <br><br>
 <br><br>
 <br><br>
-<p align="center"> Let's Connect 🔥</p>
+<p align="center"> <b> Let's Connect<b/> 🔥</p>
 <a href="https://github.com/abrarali-official/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.linkedin.com/in/abraraliofficial/">
