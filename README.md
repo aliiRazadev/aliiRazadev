@@ -3,7 +3,7 @@
 ### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="Developer Abrar Ali" src="https://raw.githubusercontent.com/UsamaSarwar/UsamaSarwar/main/code.gif" width="500" height="320" />
 
-- 😄 Pronouns me as `/Ab-r-ra/`
+- 😄 Pronouns me as `/Ab-r-ar/`
 - 🎓 Virtual University Faisalabad
 - 💻 Cross Platform Developer
 - 🌱 Learning **Flutter**
