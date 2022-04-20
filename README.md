@@ -53,9 +53,3 @@
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarali-official&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 <br>
-
-## GitHub Statistics 📈
-
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarali-official&theme=dark&hide_title=true&include_all_commits=true"/>
-</div>
