@@ -1,7 +1,7 @@
-![.](https://visitor-badge.glitch.me/badge?page_id=abrarali-official.abrarali-official) ![Repos](https://badges.pufler.dev/repos/abrarali-official) ![Commits](https://badges.pufler.dev/commits/yearly/abrarali-official)
+
 
 ### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px">
-<img align="right" alt="Developer Abrar Ali" src="https://raw.githubusercontent.com/UsamaSarwar/UsamaSarwar/main/code.gif" width="500" height="320" />
+<img align="right" alt="Developer" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47bp3n5aml29td8w3glpic16afysccx6v0wjjyxqgh&rid=giphy.gif&ct=g" width="500" height="320" />
 
 - 😄 Pronouns me as `/Ab-r-ar/`
 - 🎓 Virtual University Faisalabad
@@ -58,8 +58,4 @@
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarali-official&theme=dark&hide_title=true&include_all_commits=true"/>
-</div><br>
-<div align="center">  
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=abrarali-official&margin-w=15&margin-h=15" />
-<!-- [![Abrar Ali Achievements](https://github-profile-trophy.vercel.app/?username=abrarali-official&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=abrarali-official&margin-w=15&margin-h=15) -->
 </div>
