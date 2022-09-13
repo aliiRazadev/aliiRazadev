@@ -50,6 +50,6 @@
 <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
 <img src="https://img.shields.io/badge/React-JS-blue" />    
 <br><br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraralidev&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiRazadev&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 <br>
