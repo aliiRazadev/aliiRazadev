@@ -28,9 +28,9 @@
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
 <a href="mailto:saithaliraza266@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
-<a href="https://m.me/abraralidev/">
+<a href="https://m.me/aliiRazadev/">
 <img src="https://img.shields.io/badge/Chat-1877F2?style=for-the-badge&logo=Messenger&logoColor=ffffff"></a>
-<a href="https://wa.me/923126226637?text=%23Github">
+<a href="https://wa.me/923126446637?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
 <a href="https://wa.me/923049990072?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20Abrar%20Ali%0AIBAN%3A%20PK19MEZN0012750106221565">
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffffff"></a>
