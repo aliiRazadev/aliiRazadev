@@ -18,7 +18,7 @@
 <div>
 <a href="https://github.com/aliiRazadev">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
-<a href="https://www.linkedin.com/in/abraralidev/">
+<a href="https://www.linkedin.com/in/ali-raza-322409250/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
 <a href="https://www.facebook.com/aliiRazadev">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
