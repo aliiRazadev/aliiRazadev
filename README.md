@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
 <a href="https://www.facebook.com/aliiRazadev">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
-<a href="https://twitter.com/ALIRAZA34507015n">
+<a href="https://twitter.com/ALIRAZA34507015">
 <img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>
 <a href="https://www.instagram.com/aliiRazadev/">
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
