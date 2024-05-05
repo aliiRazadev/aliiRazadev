@@ -4,8 +4,8 @@
 <img align="right" alt="Developer" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47bp3n5aml29td8w3glpic16afysccx6v0wjjyxqgh&rid=giphy.gif&ct=g" width="500" height="320" />
 
 - 😄 Pronouns me as `/Alii/`
-- 🎓 Riphah International University Faisalabad
-- 💻 Flutter Developer
+- 🎓 Graduated from ** Riphah International University Faisalabad **
+- 💻 Data Science | Tableau | PowerBi
 - 🌱 Learning **Something New**
 - ☕️ Coffee Lover
 - 🇵🇰 Faisalabad, Punjab, Pakistan
