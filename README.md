@@ -5,6 +5,7 @@
 
 - 😄 Pronouns me as `/Alii/`
 - 🎓 Graduated from **Riphah International University Faisalabad**
+- 🎓 Post Graduation from **University of Engineering and Technology, Lahore**
 - 💻 Data Science | Tableau | PowerBi
 - 🌱 Learning **Something New**
 - ☕️ Coffee Lover
